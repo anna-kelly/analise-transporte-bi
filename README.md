@@ -1,5 +1,7 @@
 # Análise de Desempenho de Transportadoras | Power BI
 
+![Dashboard Preview](dashboard_preview.png)
+
 Dashboard desenvolvido para análise do histórico de entregas e desempenho de transportadoras ao longo de 2025, com foco em KPIs operacionais de logística, identificação de desvios e custos de frete.
 
 ---
